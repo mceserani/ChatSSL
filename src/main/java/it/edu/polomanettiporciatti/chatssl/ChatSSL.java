@@ -18,7 +18,7 @@
 	Mail to: matteo.ceserani@polomanettiporciatti.edu.it
 */
 
-package it.edu.polomanettiporciatti.chatssl;
+package it.edu.polomanettiporciatti.ChatSSL;
 
 import java.io.BufferedReader;
 import java.io.IOException;
